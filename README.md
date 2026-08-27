@@ -11,7 +11,7 @@ I am learning SQL using MySQL Workbench and documenting my learning progress by 
 - Creating Database
 - Creating Table
 - Data Types
-- Constraints
+- Basic Constraints
 - ALTER TABLE
 - INSERT INTO
 - Multiple Row Insertion
@@ -41,9 +41,24 @@ I am learning SQL using MySQL Workbench and documenting my learning progress by 
 
 📁 "03-Update-Data/update.sql"
 
-🔄 04. Delete Data
+✅ 04. Delete Data
 
-Currently learning...
+- DELETE
+- Deleting specific rows
+- DELETE with WHERE
+
+📁 "04-Delete-Data/delete.sql"
+
+🔄 05. Constraints
+
+- UNIQUE
+- NOT NULL
+- CHECK
+- DEFAULT
+- PRIMARY KEY
+- AUTO_INCREMENT
+
+📁 "05-Constraints/constraints.sql"
 
 🛠️ Tools
 
@@ -54,6 +69,6 @@ Currently learning...
 
 🎯 Goal
 
-Learn SQL step by step, practice each concept, and maintain my learning progress on GitHub.
+Learn SQL step by step, practice each concept, and document my learning progress on GitHub.
 
 «This repository will be updated as I learn new SQL topics.»
