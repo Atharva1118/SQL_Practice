@@ -49,7 +49,7 @@ I am learning SQL using MySQL Workbench and documenting my learning progress by 
 
 📁 "04-Delete-Data/delete.sql"
 
-🔄 05. Constraints
+✅ 05. Constraints
 
 - UNIQUE
 - NOT NULL
@@ -59,6 +59,18 @@ I am learning SQL using MySQL Workbench and documenting my learning progress by 
 - AUTO_INCREMENT
 
 📁 "05-Constraints/constraints.sql"
+
+✅ 06. Functions
+
+- String Functions
+- Numeric Functions
+- Date and Time Functions
+- Aggregate Functions
+- NULL Functions
+- Conditional Functions
+- Type Conversion Functions
+
+📁 "06-Functions/functions.sql"
 
 🛠️ Tools
 
