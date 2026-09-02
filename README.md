@@ -215,7 +215,7 @@ SQL_Practice/
 │
 ├── 13-Indexes/
 │   └── indexes.sql
-14-Subqueries/
+|---14-Subqueries/
 |   └── subqueries.sql
 │
 └── README.md
