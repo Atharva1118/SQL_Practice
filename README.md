@@ -215,6 +215,8 @@ SQL_Practice/
 │
 ├── 13-Indexes/
 │   └── indexes.sql
+14-Subqueries/
+|   └── subqueries.sql
 │
 └── README.md
 ```
@@ -241,7 +243,7 @@ I will continue adding new topics and practical SQL examples as I progress.
 
 ## 🚀 Progress
 
-**SQL Learning Progress: 13 Topics Completed ✅**
+**SQL Learning Progress: 14 Topics Completed ✅**
 
 ```text
 01  Basics                         ✅
@@ -257,6 +259,7 @@ I will continue adding new topics and practical SQL examples as I progress.
 11  Self JOINs                     ✅
 12  Views                          ✅
 13  Indexes                        ✅
+14  Subqueries                     ✅
 ```
 
 > This repository is continuously updated as I learn and practice new SQL concepts.
