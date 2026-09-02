@@ -146,6 +146,16 @@ I am learning SQL using **MySQL Workbench** and documenting my learning journey 
 
 ---
 
+### ✅ 12. Views
+- Creating Views
+- Virtual Tables
+- Views based on SELECT queries
+- Querying Views
+- Views reflecting live table data
+- Dropping Views
+
+📁 `12-Views/views.sql`
+
 ## 🛠️ Tools & Technologies
 
 * **MySQL**
@@ -182,17 +192,20 @@ SQL_Practice/
 ├── 07-AutoCommits-and-Transactions/
 │   └── transactions.sql
 │
-├── 07-Foreign-Key/
+├── 08-Foreign-Key/
 │   └── foreign-key.sql
 │
-├── 08-JoinsInMYSQL/
+├── 09-JoinsInMYSQL/
 │   └── joins.sql
 │
-├── 09-Union-And_Union-All/
+├── 10-Union-And_Union-All/
 │   └── union.sql
 │
-├── 10-Self-Joins/
+├── 11-Self-Joins/
 │   └── self-joins.sql
+│
+├── 12-Views/
+│   └── views.sql
 │
 └── README.md
 ```
@@ -209,7 +222,7 @@ I will continue adding new topics and practical SQL examples as I progress.
 
 ## 🚀 Progress
 
-**SQL Learning Progress: 11 Topics Completed ✅**
+**SQL Learning Progress: 12 Topics Completed ✅**
 
 > This repository is continuously updated as I learn and practice new SQL concepts.
 
