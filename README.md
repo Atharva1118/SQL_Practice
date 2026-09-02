@@ -2,7 +2,7 @@
 
 My **SQL and MySQL practice repository**.
 
-I am learning SQL using **MySQL Workbench** and documenting my learning journey by adding SQL scripts and practical examples to this repository.
+I am learning SQL using **MySQL Workbench** and documenting my learning journey by adding SQL scripts, queries, and practical examples to this repository.
 
 ---
 
@@ -101,13 +101,12 @@ I am learning SQL using **MySQL Workbench** and documenting my learning journey 
 ### ✅ 08. Foreign Keys
 
 * Foreign Key
-* PRIMARY KEY & FOREIGN KEY relationship
+* Primary Key & Foreign Key relationships
 * Creating related tables
 * Referential Integrity
-* ON DELETE / ON UPDATE concepts
 * Managing Foreign Key Constraints
 
-📁 `07-Foreign-Key/foreign-key.sql`
+📁 `08-Foreign-Key/foreign-key.sql`
 
 ---
 
@@ -119,7 +118,7 @@ I am learning SQL using **MySQL Workbench** and documenting my learning journey 
 * Joining multiple tables
 * Retrieving related data
 
-📁 `08-JoinsInMYSQL/joins.sql`
+📁 `09-JoinsInMYSQL/joins.sql`
 
 ---
 
@@ -130,11 +129,11 @@ I am learning SQL using **MySQL Workbench** and documenting my learning journey 
 * Combining results from multiple SELECT statements
 * Difference between UNION and UNION ALL
 
-📁 `09-Union-And_Union-All/union.sql`
+📁 `10-Union-And_Union-All/union.sql`
 
 ---
 
-### ✅ 11. Self Joins
+### ✅ 11. Self JOINs
 
 * Self JOIN concept
 * INNER JOIN with the same table
@@ -142,27 +141,34 @@ I am learning SQL using **MySQL Workbench** and documenting my learning journey 
 * Comparing rows within the same table
 * Working with relationships inside a single table
 
-📁 `10-Self-Joins/self-joins.sql`
+📁 `11-Self-Joins/self-joins.sql`
 
 ---
 
 ### ✅ 12. Views
-- Creating Views
-- Virtual Tables
-- Views based on SELECT queries
-- Querying Views
-- Views reflecting live table data
-- Dropping Views
+
+* Creating Views
+* Virtual Tables
+* Views based on SELECT queries
+* Querying Views
+* Views reflecting live table data
+* Dropping Views
 
 📁 `12-Views/views.sql`
 
-## 🛠️ Tools & Technologies
+---
 
-* **MySQL**
-* **MySQL Workbench**
-* **SQL**
-* **Git**
-* **GitHub**
+### ✅ 13. Indexes
+
+* Understanding Indexes
+* SHOW INDEXES
+* Single-Column Indexes
+* Multi-Column / Composite Indexes
+* Using Indexes with WHERE conditions
+* Dropping Indexes
+* Understanding Index performance
+
+📁 `13-Indexes/indexes.sql`
 
 ---
 
@@ -207,14 +213,27 @@ SQL_Practice/
 ├── 12-Views/
 │   └── views.sql
 │
+├── 13-Indexes/
+│   └── indexes.sql
+│
 └── README.md
 ```
 
 ---
 
+## 🛠️ Tools & Technologies
+
+* **MySQL**
+* **MySQL Workbench**
+* **SQL**
+* **Git**
+* **GitHub**
+
+---
+
 ## 🎯 Learning Goal
 
-My goal is to build a strong foundation in **SQL and MySQL** by learning concepts step by step, practicing them with real queries, and documenting my progress on GitHub.
+My goal is to build a strong foundation in **SQL and MySQL** by learning concepts step by step, practicing each concept with real queries, and documenting my progress on GitHub.
 
 I will continue adding new topics and practical SQL examples as I progress.
 
@@ -222,7 +241,23 @@ I will continue adding new topics and practical SQL examples as I progress.
 
 ## 🚀 Progress
 
-**SQL Learning Progress: 12 Topics Completed ✅**
+**SQL Learning Progress: 13 Topics Completed ✅**
+
+```text
+01  Basics                         ✅
+02  Querying Data                  ✅
+03  Update Data                    ✅
+04  Delete Data                    ✅
+05  Constraints                    ✅
+06  Functions                      ✅
+07  Transactions & AutoCommit      ✅
+08  Foreign Keys                   ✅
+09  JOINs                          ✅
+10  UNION & UNION ALL              ✅
+11  Self JOINs                     ✅
+12  Views                          ✅
+13  Indexes                        ✅
+```
 
 > This repository is continuously updated as I learn and practice new SQL concepts.
 
