@@ -237,9 +237,7 @@ SQL_Practice/
 
 My goal is to build a strong foundation in **SQL and MySQL** by learning concepts step by step, practicing each concept with real queries, and documenting my progress on GitHub.
 
-I will continue adding new topics and practical SQL examples as I progress.
 
----
 
 ## 🚀 Progress
 
