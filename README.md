@@ -172,6 +172,37 @@ I am learning SQL using **MySQL Workbench** and documenting my learning journey 
 
 ---
 
+### ✅ 14. Subqueries
+
+* Subquery concept
+* Nested queries
+* Subqueries with aggregate functions
+* Subqueries with WHERE
+* Subqueries with IN
+* Subqueries inside SELECT
+* Using AVG() with subqueries
+
+📁 `14-Subqueries/subqueries.sql`
+
+---
+
+### ✅ 15. GROUP BY & HAVING
+
+* GROUP BY
+* Grouping rows
+* Aggregate functions with GROUP BY
+* COUNT()
+* AVG()
+* WHERE with GROUP BY
+* HAVING
+* Difference between WHERE and HAVING
+* ROLLUP
+* Subtotals and Grand Totals
+
+📁 `15-Group-By-and-Having/group-by-having.sql`
+
+---
+
 ## 📂 Repository Structure
 
 ```text
@@ -215,8 +246,12 @@ SQL_Practice/
 │
 ├── 13-Indexes/
 │   └── indexes.sql
-|---14-Subqueries/
-|   └── subqueries.sql
+│
+├── 14-Subqueries/
+│   └── subqueries.sql
+│
+├── 15-Group-By-and-Having/
+│   └── group-by-having.sql
 │
 └── README.md
 ```
@@ -237,11 +272,11 @@ SQL_Practice/
 
 My goal is to build a strong foundation in **SQL and MySQL** by learning concepts step by step, practicing each concept with real queries, and documenting my progress on GitHub.
 
-
+---
 
 ## 🚀 Progress
 
-**SQL Learning Progress: 14 Topics Completed ✅**
+**SQL Learning Progress: 15 Topics Completed ✅**
 
 ```text
 01  Basics                         ✅
@@ -258,10 +293,10 @@ My goal is to build a strong foundation in **SQL and MySQL** by learning concept
 12  Views                          ✅
 13  Indexes                        ✅
 14  Subqueries                     ✅
+15  GROUP BY & HAVING              ✅
 ```
 
 > This repository is continuously updated as I learn and practice new SQL concepts.
 
 ---
 
-⭐ If you find this repository useful, feel free to explore the SQL scripts and practice along with me.
